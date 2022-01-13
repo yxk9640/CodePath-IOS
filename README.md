@@ -20,7 +20,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Yogesh-UTA/CodePath-IOS/blob/main/PreWork/Tip-Calculator.gif' title='Video Walkthrough' width='200' height='520' alt='Video Walkthrough' />
+<img src='https://github.com/Yogesh-UTA/CodePath-IOS/blob/main/PreWork/Tip-Calculator.gif' title='Video Walkthrough' width='200' height='460' alt='Video Walkthrough' />
 
 
 ## Notes
